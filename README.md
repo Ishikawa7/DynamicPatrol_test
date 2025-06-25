@@ -44,7 +44,7 @@ The experiment is divided into **three main phases**:
 - Full visualizations of the heat map, discovered hot points, patrol path, and visit intervals.
 - Animated patrol showing the **latest movement segment only** for clarity.
 
-![dynamic-patrol](dynamic_patrol.mp4)
+![dynamic-patrol](dynamic_patrol.gif)
 
 ---
 
