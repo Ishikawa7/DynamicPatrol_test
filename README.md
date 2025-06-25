@@ -39,6 +39,13 @@ The experiment is divided into **three main phases**:
 ![performances](patrol_performances.png)
 ---
 
+## 📊 Extensions
+
+This test is extensible to:
+- 🔁 Multiple patrolling agents
+- 🧠 Reinforcement Learning-based patrol logic
+- ⚡ Energy-aware or probabilistic patrols
+- 🎯 Adaptive importance weighting
 ## 📽️ Animation & Visualization
 
 - Full visualizations of the heat map, discovered hot points, patrol path, and visit intervals.
@@ -51,11 +58,3 @@ The experiment is divided into **three main phases**:
 ## 📦 Dependencies
 ```bash
 pip install -r requirements.txt
-
-## 📊 Extensions
-
-This test is extensible to:
-- 🔁 Multiple patrolling agents
-- 🧠 Reinforcement Learning-based patrol logic
-- ⚡ Energy-aware or probabilistic patrols
-- 🎯 Adaptive importance weighting
